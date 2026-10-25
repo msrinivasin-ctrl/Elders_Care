@@ -1,0 +1,8 @@
+{
+  "name": "ElderCare India (Pranaam Care)",
+  "description": "A dual-sided eldercare assistance platform connecting aging parents in India with family members living abroad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
